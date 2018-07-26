@@ -59,7 +59,7 @@ namespace BadApple
             //初始化控制台参数
             Console.Title = "CharAnimation";
             Console.CursorVisible = false;
-            Console.WindowWidth = width + 1;
+            Console.WindowWidth = width + 1; 
             Console.WindowHeight = height + 1;
         }
 
